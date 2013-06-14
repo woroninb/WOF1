@@ -25,7 +25,7 @@
     // 4
     STAssertTrue([@"Paladin" isEqualToString:[WoWUtils classFromCharacterType:2]],
                  nil);
-    // add the rest as an exercise
+    //// add the rest as an exercise
 }
 
 - (void)testRaceTypeLookup
